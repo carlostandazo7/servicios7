@@ -1,14 +1,10 @@
-{
-  "LOJA": {
-    "ESTADO":682,
-    "ALQUILER":5593,
-    "PARTICULAR":57004,
-    "OTROS":4
-  },
-  "GUAYAS":{
-    "ESTADO":3135,
-    "ALQUILER":27139,
-    "PARTICULAR":499514,
-    "OTROS":120
-  }
-}
+  
+[{"Provincia": "Loja","Servicios": 1,"Vehiculos": 682},
+ {"Provincia": "Loja","Servicios": 2,"Vehiculos": 5593},
+ {"Provincia": "Loja","Servicios": 3,"Vehiculos": 57004},
+ {"Provincia": "Loja","Servicios": 4,"Vehiculos": 4},
+ {"Provincia": "Guayas","Servicios": 1,"Vehiculos": 3135},
+ {"Provincia": "Guayas","Servicios": 2,"Vehiculos": 27139},
+ {"Provincia": "Guayas","Servicios": 3,"Vehiculos": 499514},
+ {"Provincia": "Guayas","Servicios": 4,"Vehiculos": 120},
+]
